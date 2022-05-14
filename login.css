@@ -1,0 +1,28 @@
+#butongönder{
+    margin-top: 50px;
+   background-color: #4190b4;
+}
+#floatingPassword{
+    margin-top: 30px;
+}
+.loginbilgi{
+margin-bottom: 50px;
+color:#42778A;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: x-large;
+
+}
+.loginbaşlık{
+
+    color:#306277;
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: x-large;
+    font-weight: bolder ;
+}
+.logincss{
+    margin-left: 600px;
+    background-color: #125688;
+    border-radius: 20%;
+}
+
